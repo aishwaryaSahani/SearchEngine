@@ -1,0 +1,5 @@
+Top 10 documents in rank list
+Query: 1	 Pr: 0.7	 Re: 0.7	 F1: 0.7Query: 2	 Pr: 0.8	 Re: 0.8	 F1: 0.8000000000000002Query: 3	 Pr: 0.8	 Re: 0.8	 F1: 0.8000000000000002Query: 4	 Pr: 1.0	 Re: 1.0	 F1: 1.0Query: 5	 Pr: 0.5	 Re: 0.5	 F1: 0.5Avg Precision:0.76
+Avg Recall:0.76
+Macro Avg F1:0.76
+
